@@ -5,3 +5,8 @@ body {
 h1 {
     color: palevioletred;
 }
+button:hover {
+    background-color: palevioletred;
+    cursor: pointer;
+  }
+  
